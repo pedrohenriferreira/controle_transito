@@ -1,3 +1,5 @@
+# Alex Cardoso, Gustavo Biasso, Pedro Ferreira
+
 def infracao(vel_permitida, vel_registrada):
       excesso = vel_registrada - vel_permitida
       if excesso <= 0:
