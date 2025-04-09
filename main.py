@@ -56,7 +56,7 @@ def principal(): # função feita para armazenar os valores em variaveis
    else:
       return "Voce possui uma multa pendente."
 
-print(f'{principal()}')
+principal()
     
 
 
